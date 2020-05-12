@@ -1,0 +1,26 @@
+/* for component test*/
+
+.head{
+    color: darkblue;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+section .ort{
+    border-style: solid;
+border-width: 1px;
+}
+
+/* for component test*/
+.ort{
+margin-left: 40px;
+float: left;
+padding: 50px;
+}
+
+em{
+  margin-left: 40px;
+  float: right;
+
+}
